@@ -14,5 +14,5 @@ spring:
     config:
       server:
         git:
-          uri: <your-config-repo-github-url>
-          default-label: main
+          uri: https://github.com/AndriyPavlyuk/config-service
+          default-label: master
